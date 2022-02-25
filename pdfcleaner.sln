@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdfcleaner", "pdfcleaner\pdfcleaner.csproj", "{6ED88491-81C3-462E-BE48-279F06EC764F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfCleanerTest", "PdfCleanerTest\PdfCleanerTest.csproj", "{0D64F59A-485E-431D-AD11-62C90FB22D66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED88491-81C3-462E-BE48-279F06EC764F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED88491-81C3-462E-BE48-279F06EC764F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED88491-81C3-462E-BE48-279F06EC764F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED88491-81C3-462E-BE48-279F06EC764F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D64F59A-485E-431D-AD11-62C90FB22D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D64F59A-485E-431D-AD11-62C90FB22D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D64F59A-485E-431D-AD11-62C90FB22D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D64F59A-485E-431D-AD11-62C90FB22D66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
